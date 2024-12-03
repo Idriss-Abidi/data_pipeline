@@ -1,6 +1,6 @@
 # Data Pipeline Project: Airbyte, dbt, and Metabase
 
-This README describes a simple data pipeline project that integrates **Airbyte**, **dbt**, and **Metabase** to process and analyze a movie dataset. The pipeline involves three source datasets—a MySQL database, a PostgreSQL database, and CSV files—that are consolidated into a single PostgreSQL schema for visualization in Metabase.
+This README describes a simple data pipeline project that integrates **Airbyte**, **dbt**, and **Metabase** to process and analyze a movie dataset. The pipeline involves three source dataset, a MySQL database, a PostgreSQL database, and CSV files that are consolidated into a single PostgreSQL schema for visualization in Metabase.
 
 ![Interface](./images/pipeline.png?raw=true "Title")
 
@@ -131,5 +131,3 @@ This README describes a simple data pipeline project that integrates **Airbyte**
 
 ## Author
 **Idriss El Abidi**
-1A GL
-
